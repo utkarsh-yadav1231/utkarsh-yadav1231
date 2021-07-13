@@ -15,7 +15,7 @@
 
 <p align="center">
   <em>
-    I am Utkarsh Yadav, a 4th year CSE undergraduate who likes to code.  <br><br>
+    I am Utkarsh Yadav, a recent CSE undergraduate who likes to code.  <br><br>
     A budding <b>Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>interested</b> in knowing about how to use technology to help make people's lives more fulfilling.&nbsp.
   </em> 
   <br><br>
