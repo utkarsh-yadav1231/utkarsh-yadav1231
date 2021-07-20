@@ -21,7 +21,7 @@
   <br><br>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>
   <b>
-    <i>I am currently learning everything and working on something very cool this month </i></b> 
+    <i>I am currently learning everything and working on something very cool </i></b> 
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /> 
   <br><br>
     <i>Also, do visit my Portfolio Website :<b> <a href="https://utkarshyadav.ml/"><b>Utkarsh Yadav</b></a> </i></b>
