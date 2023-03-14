@@ -1,10 +1,10 @@
 
 <h1 align="center"><b>Hello, fellow &lt coders </b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px">/&gt! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 <br>
-<a href="https://www.linkedin.com/in/utkarshyadav1231/">
+<a href="https://www.linkedin.com/in/hireutkarshyadav/">
   <img align="center" alt="Utkarsh @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-  <a href="mailto:utkarshyadav1231@gmail.com">
+  <a href="mailto:hireutkarshyadav@gmail.com">
   <img align="center" alt="Utkarsh @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
