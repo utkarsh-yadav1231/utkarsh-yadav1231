@@ -24,7 +24,7 @@
     <i>I am currently learning and working on a very cool tech-stack</i></b> 
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" height="30px"/> 
   <br><br>
-    <i>Also, do visit my Portfolio Website :<b> <a href="https://utkarshyadav.tk/"><b>Utkarsh Yadav</b></a> </i></b>
+    <i>Also, do visit my Portfolio Website :<b> <a href="https://utkarshyadav.in/"><b>Utkarsh Yadav</b></a> </i></b>
 </p>
 
 
